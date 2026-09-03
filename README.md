@@ -25,4 +25,4 @@ A Student, United States Marine, & Incident Response/Cybersecurity Analyst Shift
 
 ###  Connect with Me
 - **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_SLUG](https://linkedin.com/vedant-r)
-- **Portfolio / Code:** [github.com/vedpoo](https://github.com/ved-sec)
+- **Email:** vedantranganathan46@gmail.com
