@@ -1,4 +1,4 @@
-# Hello, I'm Vedant R. 
+# Hello! I'm Vedant R. Nice to meet you.
 
 An Incident Response/Cybersecurity Analyst Shift Lead & Threat Hunter specializing in SIEM/SOC automation, detection engineering, and cloud security architecture. 
 
