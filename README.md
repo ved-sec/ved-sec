@@ -1,4 +1,4 @@
-# Hello! I'm Vedant R. Nice to meet you.
+# Hello! I'm Vedant.
 
 A Student, United States Marine, & Incident Response/Cybersecurity Analyst Shift Lead/Threat Hunter specializing in SIEM/SOC automation, detection engineering, and cloud security architecture. 
 
