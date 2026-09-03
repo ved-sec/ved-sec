@@ -1,6 +1,6 @@
 # Hello! I'm Vedant R. Nice to meet you.
 
-An Incident Response/Cybersecurity Analyst Shift Lead & Threat Hunter specializing in SIEM/SOC automation, detection engineering, and cloud security architecture. 
+A Student, United States Marine, & Incident Response/Cybersecurity Analyst Shift Lead/Threat Hunter specializing in SIEM/SOC automation, detection engineering, and cloud security architecture. 
 
 ---
 
@@ -13,22 +13,13 @@ An Incident Response/Cybersecurity Analyst Shift Lead & Threat Hunter specializi
 
 ---
 
-###  Featured Security Projects
+###  My Security Projects
 
-#### 🔹 [Serverless Threat Intelligence Enrichment Engine](https://github.com/vedpoo/serverless-threat-enrichment-engine)
+####  [Serverless Threat Intelligence Enrichment Engine](https://github.com/vedpoo/serverless-threat-enrichment-engine)
 - Engineered an asynchronous triage engine in Python 3.11 (`httpx`, `asyncio`, `Pydantic v2`) querying AbuseIPDB, VirusTotal, and Shodan concurrently.
 - Dropped per-indicator enrichment round-trip time from ~4.5s to <550ms with non-blocking I/O.
 - Dual-runtime deployment: interactive Rich CLI and event-driven AWS Lambda microservice backed by GitHub Actions CI.
 
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ved-sec&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ved-sec&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
