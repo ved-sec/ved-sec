@@ -1,4 +1,6 @@
-# I'm Vedant, A, Incident Response/Cybersecurity Analyst Day SOC Shift Leadf & Threat Hunter specializing in SOC automation, detection engineering, and cloud security architecture. 
+# Hello, I'm Vedant R. 
+
+An Incident Response/Cybersecurity Analyst Shift Lead & Threat Hunter specializing in SIEM/SOC automation, detection engineering, and cloud security architecture. 
 
 ---
 
